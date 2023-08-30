@@ -2,7 +2,7 @@
 
 ## Инструкция
 
-1. Сделать Fork в свой репозиторий <details><summary>Скриншот</summary>![Fork](src\img\fork.png)</details>
+1. Сделать Fork в свой репозиторий <details><summary>Скриншот</summary>![Fork](src/img/fork.png)</details>
 2. Скопировать свой удаленный репозиторий(находится в GitHub) на локальную машину(ПК):
 - предусловие: скачать Git Bash, Visual Studio code(по желанию);
 - создать папку, где будет находится локальный репозиторий;
