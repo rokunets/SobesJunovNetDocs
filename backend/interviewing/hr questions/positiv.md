@@ -16,7 +16,7 @@ Key - Page
 
 Value - 1
 
-Отправить Request
+5. Отправить Request
 
 Ожидаемый результат: 200 ok
 
