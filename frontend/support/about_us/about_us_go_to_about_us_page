@@ -1,0 +1,14 @@
+### about_us
+#### about_us_go_to_about_us_page
+
+Тестовые данные: https://www.figma.com/file/Whkp2yKe8YbLAfXk9nfXGu/Untitled?type=design&node-id=0-1&mode=design
+
+1. Октрыть сайт SobesJunov.Net
+2. Клик по иконке "О нас"
+
+Ожидаемый результат: 
+Переход на страницу "О нас"
+
+|     Дата    | Время | Результат|   Имя  | Баг № Trello|
+|     ---     |  ---  |    ---   |   ---  |      ---    |
+|  2023-08-31 | 20:43 |          | Георгий|       -     |
