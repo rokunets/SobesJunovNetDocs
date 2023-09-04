@@ -1,5 +1,5 @@
 ### Interviewing
-#### interviewing_v1_grades_list_regression_get
+#### interviewing_v1_grades_list_smoke_get
 
 Тестовые данные: http://79.137.204.102:8000/api/v1/grades/
 
